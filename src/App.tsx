@@ -335,7 +335,7 @@ function App() {
           <div className="max-w-3xl mx-auto space-y-8">
             <EducationCard
               institution="The Pennsylvania State University"
-              logo="https://raw.githubusercontent.com/stackblitz/stackblitz-images/main/pennstate-emblem.png"
+              logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Penn_State_Nittany_Lions_logo.svg/1280px-Penn_State_Nittany_Lions_logo.svg.png"
               degree="M.S. in Computer Science and Engineering"
               duration="2024 - 2026"
               gpa="4.0/4.0"
