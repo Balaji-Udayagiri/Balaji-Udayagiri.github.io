@@ -395,6 +395,17 @@ function App() {
               link="https://github.com/Balaji-Udayagiri/Qiskit-Chatbot/tree/dev"
             />
             <ProjectCard
+              title="Kharagpur Data Science Hackathon by Axtria"
+              duration="2024"
+              description={[
+                "Determined the optimal drug channel promotion for Healthcare Providers (HCPs), considering specific constraints.",
+                "Trained an LSTM model to predict the next week’s Market Rx and the number of patients for each HCP.",
+                "Developed a 5-layer neural network model to predict BrandRx, resulting the highest solution accuracy of 0.52415.",
+                "Stood first among 700+ team in the hackathon."
+              ]}
+              link="https://colab.research.google.com/drive/12fi3vT8hyZAIiwKtlCLwfWb_AfUvmSn5?usp=sharing"
+            />
+            <ProjectCard
               title="Classification of Large Language Models (LLMs)"
               duration="Aug 2024 – Dec 2024"
               description={[
