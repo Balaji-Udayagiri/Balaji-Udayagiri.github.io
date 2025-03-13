@@ -395,6 +395,15 @@ function App() {
               link="https://github.com/Balaji-Udayagiri/Qiskit-Chatbot/tree/dev"
             />
             <ProjectCard
+              title="Learning Assistant Agent"
+              duration="2024"
+              description={[
+                "Built an Agent leveraging GPT-4 API to generate microlearning materials, including quizzes, flashcards, summaries, and interactive activities, from class recordings and slides.",
+                "Automated the pipeline by extracting audio, transcribing it, and processing inputs with prompt engineering for accurate and relevant content generation. Successfully deployed the system in a university course."
+              ]}
+              link="https://github.com/Balaji-Udayagiri/Learning-Assistant-Agent"
+            />
+            <ProjectCard
               title="Kharagpur Data Science Hackathon by Axtria"
               duration="2024"
               description={[
